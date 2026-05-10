@@ -11,14 +11,14 @@ Bu proje, Java dilinde Nesne Yönelimli Programlamaprensipleri kullanılarak gel
 - **Akıllı Limit Hesaplama:** Kredi kartı borcu değiştikçe kullanılabilir limitin dinamik güncellenmesi.
 - **Güvenlik ve İş Kuralları:** İçerisinde bakiye bulunan hesapların veya borcu bulunan kredi kartlarının yanlışlıkla silinmesini engelleyen kontrol mekanizmaları.
 
-##Proje Yapısı (Paketler)
+# Proje Yapısı (Paketler)
 - `com.bank.app.people`: Kişi, Müşteri ve Banka Personeli sınıfları (Kalıtım hiyerarşisi).
 - `com.bank.app.accounts`: Banka Hesabı (Ata Sınıf), Vadesiz ve Yatırım hesabı sınıfları.
 - `com.bank.app.cards`: Kredi Kartı veri ve limit yönetimi.
 - `com.bank.app.service`: Nesne oluşturma işlemlerini yöneten servis katmanı.
 - `com.bank.app.main`: Test senaryolarının çalıştırıldığı giriş noktası.
 
-## 💻 Nasıl Çalıştırılır?
+# Nasıl Çalıştırılır?
 
 1. Projeyi bilgisayarınıza indirin veya klonlayın.
 2. NetBeans, Eclipse veya IntelliJ IDEA gibi bir Java IDE'si ile projeyi açın.
